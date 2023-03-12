@@ -1,0 +1,12 @@
+[submodule "C-preprocessor"]
+	path = C-preprocessor
+	url = git@github.com:maniatro111/C-preprocessor.git
+[submodule "Stdio-Linux"]
+	path = Stdio-Linux
+	url = git@github.com:maniatro111/Stdio-Linux.git
+[submodule "Stdio-Windows"]
+	path = Stdio-Windows
+	url = git@github.com:maniatro111/Stdio-Windows.git
+[submodule "Executable_loader"]
+	path = Executable_loader
+	url = git@github.com:maniatro111/Executable_loader.git
